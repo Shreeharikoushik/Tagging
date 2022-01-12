@@ -1,7 +1,7 @@
 
 Apex Wrapper Salesforce Metadata API
 ==================================== 
-<a href="https://githubsfdeploy.herokuapp.com/app/githubdeploy/ShreehariKoushik/Tagging/sfdx-Tagging/force-app/main/default">
+<a href="https://githubsfdeploy.herokuapp.com/app/githubdeploy/ShreehariKoushik/Tagging/sfdx-Tagging">
   <img src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png" alt="Deploy to Salesforce" />
 </a>
 
