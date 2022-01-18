@@ -1,7 +1,7 @@
 
 To Deploy Code to your Org.
 ==================================== 
-<a href="https://githubsfdeploy.herokuapp.com/?owner=Shreeharikoushik&repo=Shreeharikoushik/Tagging">
+<a href="https://githubsfdeploy.herokuapp.com/?owner=Shreeharikoushik&repo=Tagging">
   <img src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png" alt="Deploy to Salesforce" />
 </a>
 
